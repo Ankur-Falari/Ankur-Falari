@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ankur Falari  https://raw.githubusercontent.c
+- 👋 Hi, I’m Ankur Falari [![dota2](https://cdn3.emoji.gg/emojis/2036_dota2.png)](https://emoji.gg/emoji/2036_dota2)
 - 👀 I’m interested in learning about software development
 - 🌱 I’m currently stuying MCA
 - 📫 E-mail:ankurfalari55@gmail.com
