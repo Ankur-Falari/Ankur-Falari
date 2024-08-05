@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ankur Falari  ![](https://github.com/user-attachments/assets/94c67dd8-9985-4ac6-aaad-d868121f3e78)
+- 👋 Hi, I’m Ankur Falari  https://raw.githubusercontent.c
 - 👀 I’m interested in learning about software development
 - 🌱 I’m currently stuying MCA
 - 📫 E-mail:ankurfalari55@gmail.com
