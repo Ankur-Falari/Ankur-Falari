@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankur Falari 
 - 👀 I’m interested in learning about software development
-- 🌱 I’m currently stuying MCA
+- 🌱 I’m currently studying MCA
 - 📫 E-mail:ankurfalari55@gmail.com
 - ⚡ Fun fact: I enjoy playing DotA2
 
